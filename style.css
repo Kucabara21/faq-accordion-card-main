@@ -20,7 +20,6 @@ body{
     font-family: kumbhsans;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%)) ;
