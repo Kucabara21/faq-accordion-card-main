@@ -37,12 +37,14 @@ body{
 .images{
     position: absolute;
     top: -12vh;
-    left: 8vw;
+    left: 50%;
+    transform: translateX(-50%);
     width: 15rem;
     height: 10rem;
     flex-basis: 50%;
     background-image:url("images/illustration-woman-online-desktop.svg");
     background-repeat: no-repeat;
+    background-position: center;
     background-size: 80%;
 }
 
@@ -130,6 +132,7 @@ h1{
     }
     .images{
         background-image: none;
+        left: 8vw;
         position: static;
     }
     .accordion{
