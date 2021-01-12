@@ -23,7 +23,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: hsl(273, 75%, 66%);
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%)) ;
 }
 .flexBox{
     display: flex;
@@ -140,5 +140,6 @@ h1{
     }
     h1{
         text-align: start;
+        margin-left: 2rem;
     }
 }
