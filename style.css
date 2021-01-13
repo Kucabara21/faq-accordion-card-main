@@ -117,10 +117,10 @@ h1{
         padding: 4rem 5rem 5rem 0;
         background-color: white;
         border-radius: 1rem;
-        background-image: url("images/illustration-woman-online-desktop.svg");
+        background-image: url("images/illustration-woman-online-desktop.svg"), url("images/bg-pattern-desktop.svg");
         background-size: 50%;
         background-position-x: -5rem;
-        background-position-y: 2rem;
+        background-position-y: 2rem, -0.5rem;
         background-repeat: no-repeat;
     }
     .box{
