@@ -33,6 +33,7 @@ body{
     background-color: white;
     border-radius: 1rem;
     align-items: center;
+    height: auto;
 }
 .images{
     position: absolute;
