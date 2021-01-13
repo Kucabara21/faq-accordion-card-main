@@ -134,6 +134,7 @@ h1{
         background-image: none;
         left: 8vw;
         position: static;
+        transform: none;
     }
     .accordion{
         border-bottom: 1px solid hsl(240, 5%, 91%);
