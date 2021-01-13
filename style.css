@@ -51,8 +51,8 @@ body{
 .box{
     position: absolute;
     z-index: 1;
-    left: -3vw;
-    top: 7vh;
+    left: 1vw;
+    top: 11vh;
     width: 6rem;
 }
 .illustration{
