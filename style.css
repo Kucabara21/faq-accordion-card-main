@@ -29,7 +29,7 @@ body{
     position: relative;
     flex-direction: column;
     margin: 15% 15%;
-    padding: 6rem 0 2rem 0;
+    padding: 8rem 0 2rem 0;
     background-color: white;
     border-radius: 1rem;
     align-items: center;
@@ -40,9 +40,9 @@ body{
     left: 50%;
     transform: translateX(-50%);
     width: 15rem;
-    height: 10rem;
+    height: 14rem;
     flex-basis: 50%;
-    background-image:url("images/illustration-woman-online-desktop.svg");
+    background-image:url("images/illustration-woman-online-desktop.svg"), url("images/bg-pattern-desktop.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 80%;
